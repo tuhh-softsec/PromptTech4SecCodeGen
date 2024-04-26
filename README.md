@@ -1,6 +1,6 @@
 # PromptTech4SecCodeGen
 
-## Replication package for the paper: A Systematic Investigation of Prompting Techniques for Secure Code Generation
+Replication package for the paper: **A Systematic Investigation of Prompting Techniques for Secure Code Generation**
 
 
 The repo contains two main folders:
